@@ -42,7 +42,7 @@ def lose_message(answer, hints):
     print("**************************************")
 
 
-def main():
+if __name__ == '__main__':
     guesses = 0
     hints = []
 
@@ -75,5 +75,3 @@ def main():
         lose_message(answer, hints)
        
 
-if __name__ == '__main__':
-    main()
