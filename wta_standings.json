@@ -1,0 +1,1805 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "place": "1",
+            "player": "Aryna Sabalenka",
+            "player_key": 1989,
+            "league": "WTA",
+            "movement": "same",
+            "country": "World",
+            "points": "11225"
+        },
+        {
+            "place": "2",
+            "player": "Iga Swiatek",
+            "player_key": 1910,
+            "league": "WTA",
+            "movement": "same",
+            "country": "Poland",
+            "points": "7933"
+        },
+        {
+            "place": "3",
+            "player": "Coco Gauff",
+            "player_key": 2176,
+            "league": "WTA",
+            "movement": "same",
+            "country": "USA",
+            "points": "7874"
+        },
+        {
+            "place": "4",
+            "player": "Jessica Pegula",
+            "player_key": 2171,
+            "league": "WTA",
+            "movement": "same",
+            "country": "USA",
+            "points": "4903"
+        },
+        {
+            "place": "5",
+            "player": "Mirra Andreeva",
+            "player_key": 9534,
+            "league": "WTA",
+            "movement": "same",
+            "country": "World",
+            "points": "4733"
+        },
+        {
+            "place": "6",
+            "player": "Madison Keys",
+            "player_key": 2692,
+            "league": "WTA",
+            "movement": "same",
+            "country": "USA",
+            "points": "4699"
+        },
+        {
+            "place": "7",
+            "player": "Qinwen Zheng",
+            "player_key": 1813,
+            "league": "WTA",
+            "movement": "same",
+            "country": "China",
+            "points": "4433"
+        },
+        {
+            "place": "8",
+            "player": "Jasmine Paolini",
+            "player_key": 2811,
+            "league": "WTA",
+            "movement": "same",
+            "country": "Italy",
+            "points": "4116"
+        },
+        {
+            "place": "9",
+            "player": "Amanda Anisimova",
+            "player_key": 2074,
+            "league": "WTA",
+            "movement": "same",
+            "country": "USA",
+            "points": "3869"
+        },
+        {
+            "place": "10",
+            "player": "Elena Rybakina",
+            "player_key": 2172,
+            "league": "WTA",
+            "movement": "same",
+            "country": "Kazakhstan",
+            "points": "3663"
+        },
+        {
+            "place": "11",
+            "player": "Emma Navarro",
+            "player_key": 2823,
+            "league": "WTA",
+            "movement": "same",
+            "country": "USA",
+            "points": "2960"
+        },
+        {
+            "place": "12",
+            "player": "Ekaterina Alexandrova",
+            "player_key": 2392,
+            "league": "WTA",
+            "movement": "down",
+            "country": "World",
+            "points": "2916"
+        },
+        {
+            "place": "13",
+            "player": "Karolina Muchova",
+            "player_key": 2807,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Czech Republic",
+            "points": "2838"
+        },
+        {
+            "place": "14",
+            "player": "Clara Tauson",
+            "player_key": 3007,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Denmark",
+            "points": "2781"
+        },
+        {
+            "place": "15",
+            "player": "Elina Svitolina",
+            "player_key": 2816,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Ukraine",
+            "points": "2726"
+        },
+        {
+            "place": "16",
+            "player": "Paula Badosa",
+            "player_key": 2178,
+            "league": "WTA",
+            "movement": "same",
+            "country": "Spain",
+            "points": "2564"
+        },
+        {
+            "place": "17",
+            "player": "Diana Shnaider",
+            "player_key": 7403,
+            "league": "WTA",
+            "movement": "down",
+            "country": "World",
+            "points": "2476"
+        },
+        {
+            "place": "18",
+            "player": "Daria Kasatkina",
+            "player_key": 1990,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Australia",
+            "points": "2361"
+        },
+        {
+            "place": "19",
+            "player": "Belinda Bencic",
+            "player_key": 2387,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Switzerland",
+            "points": "2265"
+        },
+        {
+            "place": "20",
+            "player": "Liudmila Samsonova",
+            "player_key": 2815,
+            "league": "WTA",
+            "movement": "up",
+            "country": "World",
+            "points": "2219"
+        },
+        {
+            "place": "21",
+            "player": "Elise Mertens",
+            "player_key": 521,
+            "league": "WTA",
+            "movement": "same",
+            "country": "Belgium",
+            "points": "2129"
+        },
+        {
+            "place": "22",
+            "player": "Beatriz Haddad Maia",
+            "player_key": 1951,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Brazil",
+            "points": "1921"
+        },
+        {
+            "place": "23",
+            "player": "Victoria Mboko",
+            "player_key": 9527,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Canada",
+            "points": "1834"
+        },
+        {
+            "place": "24",
+            "player": "Naomi Osaka",
+            "player_key": 2685,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Japan",
+            "points": "1779"
+        },
+        {
+            "place": "25",
+            "player": "Veronika Kudermetova",
+            "player_key": 2810,
+            "league": "WTA",
+            "movement": "down",
+            "country": "World",
+            "points": "1763"
+        },
+        {
+            "place": "26",
+            "player": "Jelena Ostapenko",
+            "player_key": 2802,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Latvia",
+            "points": "1720"
+        },
+        {
+            "place": "27",
+            "player": "Sofia Kenin",
+            "player_key": 2904,
+            "league": "WTA",
+            "movement": "down",
+            "country": "USA",
+            "points": "1708"
+        },
+        {
+            "place": "28",
+            "player": "Marta Kostyuk",
+            "player_key": 1828,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Ukraine",
+            "points": "1656"
+        },
+        {
+            "place": "29",
+            "player": "Anna Kalinskaya",
+            "player_key": 1820,
+            "league": "WTA",
+            "movement": "down",
+            "country": "World",
+            "points": "1582"
+        },
+        {
+            "place": "30",
+            "player": "Leylah Fernandez",
+            "player_key": 2394,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Canada",
+            "points": "1564"
+        },
+        {
+            "place": "31",
+            "player": "Dayana Yastremska",
+            "player_key": 2813,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Ukraine",
+            "points": "1559"
+        },
+        {
+            "place": "32",
+            "player": "Linda Noskova",
+            "player_key": 447,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Czech Republic",
+            "points": "1550"
+        },
+        {
+            "place": "33",
+            "player": "Magdalena Frech",
+            "player_key": 2089,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Poland",
+            "points": "1528"
+        },
+        {
+            "place": "34",
+            "player": "Xinyu Wang",
+            "player_key": 1812,
+            "league": "WTA",
+            "movement": "down",
+            "country": "China",
+            "points": "1466"
+        },
+        {
+            "place": "35",
+            "player": "Rebecca Sramkova",
+            "player_key": 449,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Slovakia",
+            "points": "1440"
+        },
+        {
+            "place": "36",
+            "player": "Emma Raducanu",
+            "player_key": 2996,
+            "league": "WTA",
+            "movement": "up",
+            "country": "United Kingdom",
+            "points": "1426"
+        },
+        {
+            "place": "37",
+            "player": "Magda Linette",
+            "player_key": 1154,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Poland",
+            "points": "1404"
+        },
+        {
+            "place": "38",
+            "player": "Ashlyn Krueger",
+            "player_key": 196,
+            "league": "WTA",
+            "movement": "down",
+            "country": "USA",
+            "points": "1374"
+        },
+        {
+            "place": "39",
+            "player": "Olga Danilovic",
+            "player_key": 494,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Serbia",
+            "points": "1320"
+        },
+        {
+            "place": "40",
+            "player": "Jessica Bouzas Maneiro",
+            "player_key": 154,
+            "league": "WTA",
+            "movement": "same",
+            "country": "Spain",
+            "points": "1316"
+        },
+        {
+            "place": "41",
+            "player": "McCartney Kessler",
+            "player_key": 22072,
+            "league": "WTA",
+            "movement": "up",
+            "country": "USA",
+            "points": "1310"
+        },
+        {
+            "place": "42",
+            "player": "Tatjana Maria",
+            "player_key": 2414,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Germany",
+            "points": "1307"
+        },
+        {
+            "place": "43",
+            "player": "Maya Joint",
+            "player_key": 52689,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Australia",
+            "points": "1301"
+        },
+        {
+            "place": "44",
+            "player": "Marie Bouzkova",
+            "player_key": 2820,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Czech Republic",
+            "points": "1287"
+        },
+        {
+            "place": "45",
+            "player": "Anastasia Pavlyuchenkova",
+            "player_key": 2694,
+            "league": "WTA",
+            "movement": "up",
+            "country": "World",
+            "points": "1245"
+        },
+        {
+            "place": "46",
+            "player": "Lois Boisson",
+            "player_key": 8802,
+            "league": "WTA",
+            "movement": "same",
+            "country": "France",
+            "points": "1219"
+        },
+        {
+            "place": "47",
+            "player": "Hailey Baptiste",
+            "player_key": 490,
+            "league": "WTA",
+            "movement": "down",
+            "country": "USA",
+            "points": "1181"
+        },
+        {
+            "place": "48",
+            "player": "Katie Boulter",
+            "player_key": 2993,
+            "league": "WTA",
+            "movement": "same",
+            "country": "United Kingdom",
+            "points": "1168"
+        },
+        {
+            "place": "49",
+            "player": "Donna Vekic",
+            "player_key": 455,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Croatia",
+            "points": "1162"
+        },
+        {
+            "place": "50",
+            "player": "Jaqueline Cristian",
+            "player_key": 2992,
+            "league": "WTA",
+            "movement": "same",
+            "country": "Romania",
+            "points": "1161"
+        },
+        {
+            "place": "51",
+            "player": "Sonay Kartal",
+            "player_key": 1961,
+            "league": "WTA",
+            "movement": "same",
+            "country": "United Kingdom",
+            "points": "1157"
+        },
+        {
+            "place": "52",
+            "player": "Laura Siegemund",
+            "player_key": 464,
+            "league": "WTA",
+            "movement": "same",
+            "country": "Germany",
+            "points": "1156"
+        },
+        {
+            "place": "53",
+            "player": "Anastasia Potapova",
+            "player_key": 457,
+            "league": "WTA",
+            "movement": "up",
+            "country": "World",
+            "points": "1136"
+        },
+        {
+            "place": "54",
+            "player": "Peyton Stearns",
+            "player_key": 2827,
+            "league": "WTA",
+            "movement": "up",
+            "country": "USA",
+            "points": "1127"
+        },
+        {
+            "place": "55",
+            "player": "Yulia Putintseva",
+            "player_key": 2177,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Kazakhstan",
+            "points": "1125"
+        },
+        {
+            "place": "56",
+            "player": "Alycia Parks",
+            "player_key": 1792,
+            "league": "WTA",
+            "movement": "down",
+            "country": "USA",
+            "points": "1080"
+        },
+        {
+            "place": "57",
+            "player": "Lucia Bronzetti",
+            "player_key": 516,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Italy",
+            "points": "1068"
+        },
+        {
+            "place": "58",
+            "player": "Ann Li",
+            "player_key": 2997,
+            "league": "WTA",
+            "movement": "down",
+            "country": "USA",
+            "points": "1054"
+        },
+        {
+            "place": "59",
+            "player": "Eva Lys",
+            "player_key": 2088,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Germany",
+            "points": "1049"
+        },
+        {
+            "place": "60",
+            "player": "Marketa Vondrousova",
+            "player_key": 2814,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Czech Republic",
+            "points": "1013"
+        },
+        {
+            "place": "61",
+            "player": "Danielle Collins",
+            "player_key": 34409,
+            "league": "WTA",
+            "movement": "up",
+            "country": "USA",
+            "points": "997"
+        },
+        {
+            "place": "62",
+            "player": "Barbora Krejcikova",
+            "player_key": 2801,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Czech Republic",
+            "points": "984"
+        },
+        {
+            "place": "63",
+            "player": "Camila Osorio",
+            "player_key": 2390,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Colombia",
+            "points": "979"
+        },
+        {
+            "place": "64",
+            "player": "Maria Sakkari",
+            "player_key": 2076,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Greece",
+            "points": "971"
+        },
+        {
+            "place": "65",
+            "player": "Kamilla Rakhimova",
+            "player_key": 1140,
+            "league": "WTA",
+            "movement": "down",
+            "country": "World",
+            "points": "966"
+        },
+        {
+            "place": "66",
+            "player": "Suzan Lamens",
+            "player_key": 450,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Netherlands",
+            "points": "966"
+        },
+        {
+            "place": "67",
+            "player": "Polina Kudermetova",
+            "player_key": 9259,
+            "league": "WTA",
+            "movement": "up",
+            "country": "World",
+            "points": "963"
+        },
+        {
+            "place": "68",
+            "player": "Yuliia Starodubtseva",
+            "player_key": 50398,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Ukraine",
+            "points": "941"
+        },
+        {
+            "place": "69",
+            "player": "Antonia Ruzic",
+            "player_key": 168,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Croatia",
+            "points": "940"
+        },
+        {
+            "place": "70",
+            "player": "Gabriela Ruse Elena",
+            "player_key": 1151,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Romania",
+            "points": "939"
+        },
+        {
+            "place": "71",
+            "player": "Sorana Cirstea",
+            "player_key": 1150,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Romania",
+            "points": "928"
+        },
+        {
+            "place": "72",
+            "player": "Viktorija Golubic",
+            "player_key": 525,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Switzerland",
+            "points": "915"
+        },
+        {
+            "place": "73",
+            "player": "Iva Jovic",
+            "player_key": 58226,
+            "league": "WTA",
+            "movement": "down",
+            "country": "USA",
+            "points": "914"
+        },
+        {
+            "place": "74",
+            "player": "Solana Sierra",
+            "player_key": 140,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Argentina",
+            "points": "911"
+        },
+        {
+            "place": "75",
+            "player": "Alexandra Eala",
+            "player_key": 3490,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Philippines",
+            "points": "904"
+        },
+        {
+            "place": "76",
+            "player": "Katerina Siniakova",
+            "player_key": 3006,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Czech Republic",
+            "points": "900"
+        },
+        {
+            "place": "77",
+            "player": "Ons Jabeur",
+            "player_key": 1911,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Tunisia",
+            "points": "893"
+        },
+        {
+            "place": "78",
+            "player": "Caroline Dolehide",
+            "player_key": 482,
+            "league": "WTA",
+            "movement": "up",
+            "country": "USA",
+            "points": "887"
+        },
+        {
+            "place": "79",
+            "player": "Ajla Tomljanovic",
+            "player_key": 1146,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Australia",
+            "points": "886"
+        },
+        {
+            "place": "80",
+            "player": "Anna Blinkova",
+            "player_key": 1779,
+            "league": "WTA",
+            "movement": "up",
+            "country": "World",
+            "points": "878"
+        },
+        {
+            "place": "81",
+            "player": "Zeynep Sonmez",
+            "player_key": 4062,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Turkey",
+            "points": "874"
+        },
+        {
+            "place": "82",
+            "player": "Renata Zarazua",
+            "player_key": 1805,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Mexico",
+            "points": "871"
+        },
+        {
+            "place": "83",
+            "player": "Kimberly Birrell",
+            "player_key": 92,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Australia",
+            "points": "871"
+        },
+        {
+            "place": "84",
+            "player": "Emiliana Arango",
+            "player_key": 1802,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Colombia",
+            "points": "871"
+        },
+        {
+            "place": "85",
+            "player": "Elisabetta Cocciaretto",
+            "player_key": 477,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Italy",
+            "points": "870"
+        },
+        {
+            "place": "86",
+            "player": "Aoi Ito",
+            "player_key": 13618,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Japan",
+            "points": "864"
+        },
+        {
+            "place": "87",
+            "player": "Jil Teichmann",
+            "player_key": 2077,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Switzerland",
+            "points": "863"
+        },
+        {
+            "place": "88",
+            "player": "Varvara Gracheva",
+            "player_key": 1913,
+            "league": "WTA",
+            "movement": "up",
+            "country": "France",
+            "points": "861"
+        },
+        {
+            "place": "89",
+            "player": "Francesca Jones",
+            "player_key": 2991,
+            "league": "WTA",
+            "movement": "up",
+            "country": "United Kingdom",
+            "points": "837"
+        },
+        {
+            "place": "90",
+            "player": "Anastasia Zakharova",
+            "player_key": 1794,
+            "league": "WTA",
+            "movement": "down",
+            "country": "World",
+            "points": "831"
+        },
+        {
+            "place": "91",
+            "player": "Elsa Jacquemot",
+            "player_key": 1823,
+            "league": "WTA",
+            "movement": "down",
+            "country": "France",
+            "points": "823"
+        },
+        {
+            "place": "92",
+            "player": "Irina-Camelia Begu",
+            "player_key": 2828,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Romania",
+            "points": "819"
+        },
+        {
+            "place": "93",
+            "player": "Leolia Jeanjean",
+            "player_key": 9118,
+            "league": "WTA",
+            "movement": "up",
+            "country": "France",
+            "points": "814"
+        },
+        {
+            "place": "94",
+            "player": "Moyuka Uchijima",
+            "player_key": null,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Japan",
+            "points": "807"
+        },
+        {
+            "place": "95",
+            "player": "Cristina Bucsa",
+            "player_key": 454,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Spain",
+            "points": "795"
+        },
+        {
+            "place": "96",
+            "player": "Tereza Valentova",
+            "player_key": 8976,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Czech Republic",
+            "points": "793"
+        },
+        {
+            "place": "97",
+            "player": "Anna Bondar",
+            "player_key": 505,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Hungary",
+            "points": "779"
+        },
+        {
+            "place": "98",
+            "player": "Viktoriya Tomova",
+            "player_key": 499,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Bulgaria",
+            "points": "763"
+        },
+        {
+            "place": "99",
+            "player": "Dalma Galfi",
+            "player_key": 507,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Hungary",
+            "points": "736"
+        },
+        {
+            "place": "100",
+            "player": "Yue Yuan",
+            "player_key": 1112,
+            "league": "WTA",
+            "movement": "up",
+            "country": "China",
+            "points": "735"
+        },
+        {
+            "place": "101",
+            "player": "Caty McNally",
+            "player_key": 1127,
+            "league": "WTA",
+            "movement": "down",
+            "country": "USA",
+            "points": "735"
+        },
+        {
+            "place": "102",
+            "player": "Mayar Sherif",
+            "player_key": 510,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Egypt",
+            "points": "734"
+        },
+        {
+            "place": "103",
+            "player": "Elina Avanesyan",
+            "player_key": 1810,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Armenia",
+            "points": "733"
+        },
+        {
+            "place": "104",
+            "player": "Ella Seidel",
+            "player_key": 2415,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Germany",
+            "points": "729"
+        },
+        {
+            "place": "105",
+            "player": "Talia Gibson",
+            "player_key": 3326,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Australia",
+            "points": "722"
+        },
+        {
+            "place": "106",
+            "player": "Greet Minnen",
+            "player_key": 2191,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Belgium",
+            "points": "719"
+        },
+        {
+            "place": "107",
+            "player": "Diane Parry",
+            "player_key": 1833,
+            "league": "WTA",
+            "movement": "up",
+            "country": "France",
+            "points": "704"
+        },
+        {
+            "place": "108",
+            "player": "Rebeka Masarova",
+            "player_key": 1132,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Switzerland",
+            "points": "686"
+        },
+        {
+            "place": "109",
+            "player": "Katie Volynets",
+            "player_key": 2826,
+            "league": "WTA",
+            "movement": "up",
+            "country": "USA",
+            "points": "684"
+        },
+        {
+            "place": "110",
+            "player": "Bernarda Pera",
+            "player_key": 518,
+            "league": "WTA",
+            "movement": "same",
+            "country": "USA",
+            "points": "665"
+        },
+        {
+            "place": "111",
+            "player": "Sara Bejlek",
+            "player_key": 9393,
+            "league": "WTA",
+            "movement": "same",
+            "country": "Czech Republic",
+            "points": "664"
+        },
+        {
+            "place": "112",
+            "player": "Alexia Todoni Anca",
+            "player_key": 10891,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Romania",
+            "points": "660"
+        },
+        {
+            "place": "113",
+            "player": "Shuai Zhang",
+            "player_key": 1825,
+            "league": "WTA",
+            "movement": "down",
+            "country": "China",
+            "points": "652"
+        },
+        {
+            "place": "114",
+            "player": "Petra Marcinko",
+            "player_key": 1143,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Croatia",
+            "points": "641"
+        },
+        {
+            "place": "115",
+            "player": "Darja Semenistaja",
+            "player_key": 157,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Latvia",
+            "points": "630"
+        },
+        {
+            "place": "116",
+            "player": "Julia Grabher",
+            "player_key": 489,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Austria",
+            "points": "628"
+        },
+        {
+            "place": "117",
+            "player": "Rebecca Marino",
+            "player_key": 479,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Canada",
+            "points": "622"
+        },
+        {
+            "place": "118",
+            "player": "Katarzyna Kawa",
+            "player_key": 1780,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Poland",
+            "points": "622"
+        },
+        {
+            "place": "119",
+            "player": "Aliaksandra Sasnovich",
+            "player_key": 527,
+            "league": "WTA",
+            "movement": "down",
+            "country": "World",
+            "points": "610"
+        },
+        {
+            "place": "120",
+            "player": "Mananchaya Sawangkaew",
+            "player_key": 12716,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Thailand",
+            "points": "602"
+        },
+        {
+            "place": "121",
+            "player": "Olivia Gadecki",
+            "player_key": 1809,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Australia",
+            "points": "602"
+        },
+        {
+            "place": "122",
+            "player": "Varvara Lepchenko",
+            "player_key": 2765,
+            "league": "WTA",
+            "movement": "down",
+            "country": "USA",
+            "points": "588"
+        },
+        {
+            "place": "123",
+            "player": "Leyre Romero Gormaz",
+            "player_key": 141,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Spain",
+            "points": "588"
+        },
+        {
+            "place": "124",
+            "player": "Simona Waltert",
+            "player_key": 493,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Switzerland",
+            "points": "583"
+        },
+        {
+            "place": "125",
+            "player": "Lourdes Carle Maria",
+            "player_key": 187,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Argentina",
+            "points": "582"
+        },
+        {
+            "place": "126",
+            "player": "Priscilla Hon",
+            "player_key": 467,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Australia",
+            "points": "578"
+        },
+        {
+            "place": "127",
+            "player": "Jessika Ponchet",
+            "player_key": 472,
+            "league": "WTA",
+            "movement": "down",
+            "country": "France",
+            "points": "577"
+        },
+        {
+            "place": "128",
+            "player": "Ena Shibahara",
+            "player_key": 1986,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Japan",
+            "points": "576"
+        },
+        {
+            "place": "129",
+            "player": "Sinja Kraus",
+            "player_key": 1424,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Austria",
+            "points": "575"
+        },
+        {
+            "place": "130",
+            "player": "Victoria Jimenez Kasintseva",
+            "player_key": 1137,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Andorra",
+            "points": "561"
+        },
+        {
+            "place": "131",
+            "player": "Arantxa Rus",
+            "player_key": 508,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Netherlands",
+            "points": "560"
+        },
+        {
+            "place": "132",
+            "player": "Victoria Azarenka",
+            "player_key": 2174,
+            "league": "WTA",
+            "movement": "down",
+            "country": "World",
+            "points": "556"
+        },
+        {
+            "place": "133",
+            "player": "Nuria Parrizas-Diaz",
+            "player_key": 513,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Spain",
+            "points": "556"
+        },
+        {
+            "place": "134",
+            "player": "Panna Udvardy",
+            "player_key": 1141,
+            "league": "WTA",
+            "movement": "same",
+            "country": "Hungary",
+            "points": "546"
+        },
+        {
+            "place": "135",
+            "player": "Anhelina Kalinina",
+            "player_key": 2393,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Ukraine",
+            "points": "542"
+        },
+        {
+            "place": "136",
+            "player": "Joanna Garland",
+            "player_key": 1962,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Taiwan",
+            "points": "542"
+        },
+        {
+            "place": "137",
+            "player": "Whitney Osuigwe",
+            "player_key": 1431,
+            "league": "WTA",
+            "movement": "down",
+            "country": "USA",
+            "points": "522"
+        },
+        {
+            "place": "138",
+            "player": "Veronika Erjavec",
+            "player_key": 163,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Slovenia",
+            "points": "517"
+        },
+        {
+            "place": "139",
+            "player": "Taylor Townsend",
+            "player_key": 3214,
+            "league": "WTA",
+            "movement": "down",
+            "country": "USA",
+            "points": "505"
+        },
+        {
+            "place": "140",
+            "player": "Astra Sharma",
+            "player_key": null,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Australia",
+            "points": "502"
+        },
+        {
+            "place": "141",
+            "player": "Maddison Inglis",
+            "player_key": 1788,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Australia",
+            "points": "497"
+        },
+        {
+            "place": "142",
+            "player": "Xinyu Gao",
+            "player_key": 7289,
+            "league": "WTA",
+            "movement": "down",
+            "country": "China",
+            "points": "490"
+        },
+        {
+            "place": "143",
+            "player": "Sara Sorribes Tormo",
+            "player_key": 2910,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Spain",
+            "points": "485"
+        },
+        {
+            "place": "144",
+            "player": "Jodie Burrage",
+            "player_key": 1437,
+            "league": "WTA",
+            "movement": "down",
+            "country": "United Kingdom",
+            "points": "485"
+        },
+        {
+            "place": "145",
+            "player": "Lucrezia Stefanini",
+            "player_key": 1113,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Italy",
+            "points": "484"
+        },
+        {
+            "place": "146",
+            "player": "Tatiana Prozorova",
+            "player_key": 9253,
+            "league": "WTA",
+            "movement": "down",
+            "country": "World",
+            "points": "481"
+        },
+        {
+            "place": "147",
+            "player": "Xiyu Wang",
+            "player_key": 463,
+            "league": "WTA",
+            "movement": "up",
+            "country": "China",
+            "points": "480"
+        },
+        {
+            "place": "148",
+            "player": "Tamara Zidansek",
+            "player_key": 2803,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Slovenia",
+            "points": "480"
+        },
+        {
+            "place": "149",
+            "player": "Janice Tjen",
+            "player_key": 28551,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Indonesia",
+            "points": "480"
+        },
+        {
+            "place": "150",
+            "player": "Linda Fruhvirtova",
+            "player_key": 446,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Czech Republic",
+            "points": "479"
+        },
+        {
+            "place": "151",
+            "player": "Louisa Chirico",
+            "player_key": 456,
+            "league": "WTA",
+            "movement": "down",
+            "country": "USA",
+            "points": "477"
+        },
+        {
+            "place": "152",
+            "player": "Jana Fett",
+            "player_key": 1801,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Croatia",
+            "points": "465"
+        },
+        {
+            "place": "153",
+            "player": "Tamara Korpatsch",
+            "player_key": 501,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Germany",
+            "points": "460"
+        },
+        {
+            "place": "154",
+            "player": "Lanlana Tararudee",
+            "player_key": 25728,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Thailand",
+            "points": "460"
+        },
+        {
+            "place": "155",
+            "player": "Daria Saville",
+            "player_key": 1153,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Australia",
+            "points": "458"
+        },
+        {
+            "place": "156",
+            "player": "Nina Stojanovic",
+            "player_key": 3004,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Serbia",
+            "points": "457"
+        },
+        {
+            "place": "157",
+            "player": "Kathinka von Deichmann",
+            "player_key": 459,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Liechtenstein",
+            "points": "457"
+        },
+        {
+            "place": "158",
+            "player": "Marina Stakusic",
+            "player_key": 81,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Canada",
+            "points": "457"
+        },
+        {
+            "place": "159",
+            "player": "Heather Watson",
+            "player_key": 1155,
+            "league": "WTA",
+            "movement": "down",
+            "country": "United Kingdom",
+            "points": "449"
+        },
+        {
+            "place": "160",
+            "player": "Dominika Salkova",
+            "player_key": 179,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Czech Republic",
+            "points": "449"
+        },
+        {
+            "place": "161",
+            "player": "Kaja Juvan",
+            "player_key": 519,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Slovenia",
+            "points": "446"
+        },
+        {
+            "place": "162",
+            "player": "Hanne Vandewinkel",
+            "player_key": 9254,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Belgium",
+            "points": "438"
+        },
+        {
+            "place": "163",
+            "player": "Oksana Selekhmeteva",
+            "player_key": 478,
+            "league": "WTA",
+            "movement": "down",
+            "country": "World",
+            "points": "437"
+        },
+        {
+            "place": "164",
+            "player": "Lulu Sun",
+            "player_key": null,
+            "league": "WTA",
+            "movement": "up",
+            "country": "New Zealand",
+            "points": "435"
+        },
+        {
+            "place": "165",
+            "player": "Nuria Brancaccio",
+            "player_key": 222,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Italy",
+            "points": "433"
+        },
+        {
+            "place": "166",
+            "player": "Destanee Aiava",
+            "player_key": 3134,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Australia",
+            "points": "431"
+        },
+        {
+            "place": "167",
+            "player": "Celine Naef",
+            "player_key": 10911,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Switzerland",
+            "points": "431"
+        },
+        {
+            "place": "168",
+            "player": "Darja Vidmanova",
+            "player_key": 9260,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Czech Republic",
+            "points": "424"
+        },
+        {
+            "place": "169",
+            "player": "Iryna Shymanovich",
+            "player_key": 223,
+            "league": "WTA",
+            "movement": "down",
+            "country": "World",
+            "points": "414"
+        },
+        {
+            "place": "170",
+            "player": "Yafan Wang",
+            "player_key": 2276,
+            "league": "WTA",
+            "movement": "down",
+            "country": "China",
+            "points": "411"
+        },
+        {
+            "place": "171",
+            "player": "Daria Snigur",
+            "player_key": 1131,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Ukraine",
+            "points": "409"
+        },
+        {
+            "place": "172",
+            "player": "Erika Andreeva",
+            "player_key": 1958,
+            "league": "WTA",
+            "movement": "up",
+            "country": "World",
+            "points": "407"
+        },
+        {
+            "place": "173",
+            "player": "Bianca Andreescu",
+            "player_key": 2817,
+            "league": "WTA",
+            "movement": "same",
+            "country": "Canada",
+            "points": "406"
+        },
+        {
+            "place": "174",
+            "player": "Caroline Garcia",
+            "player_key": 1148,
+            "league": "WTA",
+            "movement": "same",
+            "country": "France",
+            "points": "406"
+        },
+        {
+            "place": "175",
+            "player": "Julia Riera",
+            "player_key": 2281,
+            "league": "WTA",
+            "movement": "same",
+            "country": "Argentina",
+            "points": "405"
+        },
+        {
+            "place": "176",
+            "player": "Lola Radivojevic",
+            "player_key": 1364,
+            "league": "WTA",
+            "movement": "same",
+            "country": "Serbia",
+            "points": "404"
+        },
+        {
+            "place": "177",
+            "player": "Maja Chwalinska",
+            "player_key": 1434,
+            "league": "WTA",
+            "movement": "same",
+            "country": "Poland",
+            "points": "402"
+        },
+        {
+            "place": "178",
+            "player": "Clervie Ngounoue",
+            "player_key": 2994,
+            "league": "WTA",
+            "movement": "down",
+            "country": "USA",
+            "points": "399"
+        },
+        {
+            "place": "179",
+            "player": "Kaitlin Quevedo",
+            "player_key": 13647,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Spain",
+            "points": "399"
+        },
+        {
+            "place": "180",
+            "player": "Mai Hontama",
+            "player_key": 1787,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Japan",
+            "points": "398"
+        },
+        {
+            "place": "181",
+            "player": "Sofia Costoulas",
+            "player_key": 9248,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Belgium",
+            "points": "397"
+        },
+        {
+            "place": "182",
+            "player": "Sofia Sanchez Ana",
+            "player_key": 123,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Mexico",
+            "points": "396"
+        },
+        {
+            "place": "183",
+            "player": "Carson Branstine",
+            "player_key": 6528,
+            "league": "WTA",
+            "movement": "same",
+            "country": "Canada",
+            "points": "395"
+        },
+        {
+            "place": "184",
+            "player": "Jule Niemeier",
+            "player_key": 471,
+            "league": "WTA",
+            "movement": "same",
+            "country": "Germany",
+            "points": "391"
+        },
+        {
+            "place": "185",
+            "player": "Robin Montgomery",
+            "player_key": 2123,
+            "league": "WTA",
+            "movement": "same",
+            "country": "USA",
+            "points": "391"
+        },
+        {
+            "place": "186",
+            "player": "Nao Hibino",
+            "player_key": 465,
+            "league": "WTA",
+            "movement": "same",
+            "country": "Japan",
+            "points": "390"
+        },
+        {
+            "place": "187",
+            "player": "Arianne Hartono",
+            "player_key": 1134,
+            "league": "WTA",
+            "movement": "same",
+            "country": "Netherlands",
+            "points": "387"
+        },
+        {
+            "place": "188",
+            "player": "Linda Klimovicova",
+            "player_key": 8978,
+            "league": "WTA",
+            "movement": "same",
+            "country": "Poland",
+            "points": "387"
+        },
+        {
+            "place": "189",
+            "player": "Sijia Wei",
+            "player_key": 40,
+            "league": "WTA",
+            "movement": "same",
+            "country": "China",
+            "points": "385"
+        },
+        {
+            "place": "190",
+            "player": "Guiomar Maristany Zuleta De Reales",
+            "player_key": 142,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Spain",
+            "points": "384"
+        },
+        {
+            "place": "191",
+            "player": "Maria Timofeeva",
+            "player_key": 12869,
+            "league": "WTA",
+            "movement": "down",
+            "country": "World",
+            "points": "383"
+        },
+        {
+            "place": "192",
+            "player": "Anouk Koevermans",
+            "player_key": 13375,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Netherlands",
+            "points": "382"
+        },
+        {
+            "place": "193",
+            "player": "Alina Korneeva",
+            "player_key": null,
+            "league": "WTA",
+            "movement": "down",
+            "country": "World",
+            "points": "381"
+        },
+        {
+            "place": "194",
+            "player": "Alina Charaeva",
+            "player_key": 13421,
+            "league": "WTA",
+            "movement": "down",
+            "country": "World",
+            "points": "380"
+        },
+        {
+            "place": "195",
+            "player": "Petra Martic",
+            "player_key": 2173,
+            "league": "WTA",
+            "movement": "up",
+            "country": "Croatia",
+            "points": "379"
+        },
+        {
+            "place": "196",
+            "player": "Anna-Lena Friedsam",
+            "player_key": 522,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Germany",
+            "points": "374"
+        },
+        {
+            "place": "197",
+            "player": "Barbora Palicova",
+            "player_key": 2280,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Czech Republic",
+            "points": "374"
+        },
+        {
+            "place": "198",
+            "player": "Emerson Jones",
+            "player_key": 10924,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Australia",
+            "points": "374"
+        },
+        {
+            "place": "199",
+            "player": "Justina Mikulskyte",
+            "player_key": 232,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Lithuania",
+            "points": "371"
+        },
+        {
+            "place": "200",
+            "player": "Bianca Bulgaru Miriam",
+            "player_key": 173,
+            "league": "WTA",
+            "movement": "down",
+            "country": "Romania",
+            "points": "370"
+        }
+    ]
+}
