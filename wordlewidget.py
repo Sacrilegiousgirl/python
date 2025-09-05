@@ -1,3 +1,7 @@
+#future improvements:
+#add keyboard
+#add animation maybe?
+
 import sys
 from PyQt5.QtWidgets import (QApplication, QWidget, QLabel, QDialog,
                              QLineEdit, QPushButton, QVBoxLayout, QStackedWidget)
@@ -6,6 +10,8 @@ from PyQt5.uic import loadUi
 from exercises.wordlist_5_letters import words
 import random
 
+answer = random.choice(words)
+solved = False
 
 class Wordle(QDialog):
     def __init__(self):
@@ -13,31 +19,35 @@ class Wordle(QDialog):
         loadUi("wordle.ui", self)
         self.setWindowTitle("Wordle")
         self.guesses = 0
-        # self.answer = random.choice(words)
-        self.answer = "apple"
+        self.solved = False
         self.checkbutton.clicked.connect(self.checkanswer)
 
     def checkanswer(self):
-        self.guess_words = []
-        self.guess = self.inputword.text().strip().lower()
-        if self.appropriate_input(self.guess, words):
-            self.guesses += 1
-            for i in self.guess:
-                self.guess_words.append(i)
-            print(self.guess_words)
-            print(self.guesses)
-            self.show_hint()
+        if self.guesses < 7:
+            self.guess_words = []
+            self.guess = self.inputword.text().strip().lower()
+            if self.appropriate_input():
+                self.error_message.setText("")
+                self.guesses += 1
+                for i in self.guess:
+                    self.guess_words.append(i)
+                self.show_hint()
+        else:
+            gameover = GameOver()
+            widget.addWidget(gameover)
+            widget.setCurrentIndex(widget.currentIndex() + 1)
 
-    @staticmethod
-    def appropriate_input(guess, words):
-        if not guess.isalpha():
-            print("Invalid input")
+
+    def appropriate_input(self):
+        global words
+        if not self.guess.isalpha():
+            self.error_message.setText("Invalid input")
             return False
-        elif len(guess) != 5:
-            print("You must type a 5-letter word")
+        elif len(self.guess) != 5:
+            self.error_message.setText("You must type a 5-letter word")
             return False
-        elif guess not in words:
-            print("This word doesnt exist in the dictionary!")
+        elif self.guess not in words:
+            self.error_message.setText("This word doesnt exist in the dictionary!")
             return False
         else:
             return True
@@ -45,11 +55,11 @@ class Wordle(QDialog):
     def show_hint(self):
         self.hint = ["💩"] * 5 
         for x in range(5):
-            if self.guess_words[x] in self.answer:
+            if self.guess_words[x] in answer:
                 self.hint[x] = "🟨"
 
         for i in range(5):
-            if self.guess_words[i] == self.answer[i]:
+            if self.guess_words[i] == answer[i]:
                 self.hint[i] = "🟩"
 
         match self.guesses:
@@ -84,11 +94,50 @@ class Wordle(QDialog):
             """)
             labels[i].setText(self.guess_words[i].upper())
 
+        if self.hint == ["🟩","🟩","🟩","🟩","🟩"]:
+            global solved
+            solved = True
+            gameover = GameOver()
+            widget.addWidget(gameover)
+            widget.setCurrentIndex(widget.currentIndex() + 1)
+
+        if self.hint != ["🟩","🟩","🟩","🟩","🟩"] and self.guesses == 6:
+            gameover = GameOver()
+            widget.addWidget(gameover)
+            widget.setCurrentIndex(widget.currentIndex() + 1)
+
+class GameOver(QDialog):
+    def __init__(self):
+        global answer
+        global solved
+        super().__init__()
+        loadUi("gameover.ui", self)
+        widget.setGeometry(520, 300, 400, 300)
+        self.answer_label.setText(answer.upper())
+        if solved:
+            self.result_label.setText("You Won!")
+        else:
+            self.result_label.setText("You Lost!")
+        self.newgame_button.clicked.connect(self.start_new_game)
+    
+    def start_new_game(self):
+        global solved
+        global answer
+        solved = False
+        answer = random.choice(words)
+        newgame = Wordle()
+        widget.addWidget(newgame)
+        widget.setGeometry(370, 150, 700, 600)
+        widget.setCurrentIndex(widget.currentIndex()+1)
+            
 
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
     mainwindow = Wordle()
-    mainwindow.show()
+    widget = QStackedWidget()
+    widget.addWidget(mainwindow)
+    widget.setGeometry(370, 150, 700, 600)
+    widget.show()
     sys.exit(app.exec_())
 
